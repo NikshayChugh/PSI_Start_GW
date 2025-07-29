@@ -29,7 +29,7 @@ Some tools and ideas that were not used much but may be relevant for debugging (
 Important and self-containted plots summarise the analysis. A dictionary between snapshot number and redshift may be found at the [Illustris Data Access](https://www.tng-project.org/data/) Page under the Illustris TNG 300-1 simulation details. 
 These plots deal with mostly b(0.1 h/Mpc) = b_{GW}. 
 
->[!NOTE]
+>[!TIP]
 >Contact the authors in case of any query. [nikshaychugh@iisc.ac.in](mailto:nikshaychugh@iisc.ac.in) or [nikshaychugh@gmail.com](mailto:nikshaychugh@gmail.com) or [karasova@mit.edu](mailto:karasova@mit.edu) or [taissiakarasova@gmail.com](mailto:taissiakarasova@gmail.com).
 
 [^1]: [https://arxiv.org/abs/2506.11201](https://arxiv.org/abs/2506.11201)
