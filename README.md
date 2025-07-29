@@ -32,6 +32,6 @@ These plots deal with mostly b(0.1 h/Mpc) = b_{GW}.
 >[!NOTE]
 >Contact the authors in case of any query. [nikshaychugh@iisc.ac.in](mailto:nikshaychugh@iisc.ac.in) or [nikshaychugh@gmail.com](mailto:nikshaychugh@gmail.com) or [karasova@mit.edu](mailto:karasova@mit.edu) or [taissiakarasova@gmail.com](mailto:taissiakarasova@gmail.com).
 
-[^1] [https://arxiv.org/abs/2506.11201](https://arxiv.org/abs/2506.11201)
-[^2] [https://iopscience.iop.org/article/10.1088/1475-7516/2025/04/056](https://iopscience.iop.org/article/10.1088/1475-7516/2025/04/056)
+[^1]: [https://arxiv.org/abs/2506.11201](https://arxiv.org/abs/2506.11201)
+[^2]: [https://iopscience.iop.org/article/10.1088/1475-7516/2025/04/056](https://iopscience.iop.org/article/10.1088/1475-7516/2025/04/056)
 
