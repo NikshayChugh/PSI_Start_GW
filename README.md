@@ -13,13 +13,13 @@ We thank the **PSI Start Program** for funding and support.
 ## [codes](PSI_Start_GW/codes/) 
 This directory contains the tools used to work with the Illustris API, and then to run the computation and analysis. 
 
-### [Python Scripts](PSI_Start_GW/codes/Python Scripts/)
+### [Python Scripts]("PSI_Start_GW/codes/Python Scripts/")
 Most relevant scripts are found here.
 
-### [SLurm Scripts](PSI_Start_GW/codes/Slurm Scripts/)
+### [SLurm Scripts]("PSI_Start_GW/codes/Slurm Scripts/")
 These are slurm job scripts run on `symmetry`, the cluster at PI, to efficiently parallely process the Python jobs.
 
-### [Jupyter Notebooks](PSI_Start_GW/codes/Jupyter Notebooks/)
+### [Jupyter Notebooks]("PSI_Start_GW/codes/Jupyter Notebooks/")
 Miscellaneous notebooks in which I brainstorm and develop how the procedure works.
 
 ### [Extra](PSI_Start_GW/codes/Extra/)
