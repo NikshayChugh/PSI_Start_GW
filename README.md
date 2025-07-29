@@ -5,7 +5,7 @@ This repository is a collection of code [**Taissia Karasova**](mailto:karasova@m
 3. Use these catalogs to compute the gravitational wave bias for our model.
 4. Analyse the obtained data and draw conclusions.
 
-Most of the code in the siren catalog generation is due to **Dorsa Sadat Hosseini**^1^2. 
+Most of the code in the siren catalog generation is due to **Dorsa Sadat Hosseini**[^1][^2]. 
 
 This project was supervised by **Prof Ghazal Geshnizjani** at the **Perimeter Institute for Theoretical Physics**, Waterloo, Canada. 
 We thank the **PSI Start Program** for funding and support.
